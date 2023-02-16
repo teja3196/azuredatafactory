@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVaultSPN",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://asakeyvaultgk9xp2r.vault.azure.net/"
+		}
+	}
+}
